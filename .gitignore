@@ -1,0 +1,13 @@
+# Build results (Carpetas de compilación de .NET)
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]emp/
+*.pdb
+*.dll
+*.exe
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
