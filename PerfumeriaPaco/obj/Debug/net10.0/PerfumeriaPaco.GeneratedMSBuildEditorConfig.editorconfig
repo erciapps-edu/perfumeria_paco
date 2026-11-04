@@ -36,5 +36,8 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/cauah/Documents/2DAM/DesarrolloDeInterfaces/PerfumeriaPaco/PerfumeriaPaco/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/cauah/Documents/2DAM/DesarrolloDeInterfaces/PerfumeriaPaco/PerfumeriaPaco/Views/HomeView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/cauah/Documents/2DAM/DesarrolloDeInterfaces/PerfumeriaPaco/PerfumeriaPaco/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
